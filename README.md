@@ -9,7 +9,7 @@
 - 📫 How to reach me **kawliya11gmail.com**
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=deepak7691&label=Profile%20views&color=brightgreen&style=plastic" alt="deepak's profile views" /> 
-	<a href="https://github.com/deepak7691?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/deepak7691?tab=followers"><img src="https://img.shields.io/github/followers/deepak7691?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <br><br>
