@@ -12,7 +12,7 @@
 	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
-<br><br><br><br><br><br><br><br>
+<br><br>
 
 ## Technologies currently using
 
